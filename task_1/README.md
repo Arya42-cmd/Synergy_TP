@@ -25,14 +25,15 @@ Windows:
 
 ## Install Requirements
 
-```bash
+
 pip install -r requirements.txt
-```
 
 ## Run the Python File
 
 From the repository root:
 
-```bash
+
 python task_1/src/hello.py
-```
+
+## Update 1
+Testing pull request workflow.
