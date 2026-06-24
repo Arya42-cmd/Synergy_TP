@@ -1,0 +1,1 @@
+print("Hello, Synergy Task Phase!")
