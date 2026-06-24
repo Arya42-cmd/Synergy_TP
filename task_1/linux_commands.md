@@ -2,193 +2,219 @@
 
 ## pwd
 
-Command:
-
-```bash
+Command Used:
 pwd
-```
 
-Purpose:
-Displays the current directory.
+What it Does:
+Shows the current working directory.
+
+Observed Output:
+`/home/user/Synergy_TP`
 
 ---
 
 ## ls
 
-Command:
-
-```bash
+Command Used:
 ls
-```
 
-Purpose:
-Lists files and folders.
+What it Does:
+Lists all files and folders in the current directory.
+
+Observed Output:
+task_1  README.md  .gitignore
 
 ---
 
-## mkdir
+## ls -la
 
-Command:
+Command Used:
+ls -la
 
-```bash
-mkdir test_folder
-```
+What it Does:
+Displays all files and folders, including hidden files, along with detailed information.
 
-Purpose:
-Creates a new folder.
+Observed Output:
+Shows file permissions, owner details, file sizes, and modification dates.
 
 ---
 
 ## cd
 
-Command:
+Command Used:
+cd task_1
 
-```bash
-cd test_folder
-```
+What it Does:
+Changes the current directory to task_1.
 
-Purpose:
-Changes directory.
+Observed Output:
+Current directory changes from Synergy_TP to task_1.
+
+---
+
+## mkdir
+
+Command Used:
+mkdir test_folder
+
+What it Does:
+Creates a new directory named test_folder.
+
+Observed Output:
+A new folder called test_folder is created.
 
 ---
 
 ## touch
 
-Command:
-
-```bash
+Command Used:
 touch file.txt
-```
 
-Purpose:
-Creates a file.
+What it Does:
+Creates an empty file.
+
+Observed Output:
+A file named file.txt is created.
 
 ---
 
 ## cat
 
-Command:
-
-```bash
+Command Used:
 cat file.txt
-```
 
-Purpose:
-Displays file content.
+What it Does:
+Displays the contents of a file.
+
+Observed Output:
+The contents of file.txt are shown on the terminal.
+
+---
+
+## echo
+
+Command Used:
+echo "Hello World"
+
+What it Does:
+Prints text to the terminal.
+
+Observed Output:
+Hello World
 
 ---
 
 ## cp
 
-Command:
-
-```bash
+Command Used:
 cp file.txt backup.txt
-```
 
-Purpose:
-Copies files.
+What it Does:
+Creates a copy of file.txt and saves it as backup.txt.
+
+Observed Output:
+A new file named backup.txt is created.
 
 ---
 
 ## mv
 
-Command:
-
-```bash
+Command Used:
 mv backup.txt newfile.txt
-```
 
-Purpose:
-Moves or renames files.
+What it Does:
+Moves or renames a file.
+
+Observed Output:
+backup.txt is renamed to newfile.txt.
 
 ---
 
 ## rm
 
-Command:
-
-```bash
+Command Used:
 rm newfile.txt
-```
 
-Purpose:
-Deletes files.
+What it Does:
+Deletes a file from the directory.
+
+Observed Output:
+newfile.txt is removed.
 
 ---
 
 ## grep
 
-Command:
-
-```bash
+Command Used:
 grep hello file.txt
-```
 
-Purpose:
-Searches text.
+What it Does:
+Searches for a specific word or pattern in a file.
+
+Observed Output:
+Lines containing the word "hello" are displayed.
 
 ---
 
 ## find
 
-Command:
-
-```bash
+Command Used:
 find . -name "*.txt"
-```
 
-Purpose:
-Finds files.
+What it Does:
+Searches for files matching a specified pattern.
+
+Observed Output:
+Lists all .txt files found in the current directory and its subdirectories.
 
 ---
 
 ## head
 
-Command:
-
-```bash
+Command Used:
 head file.txt
-```
 
-Purpose:
-Shows first lines.
+What it Does:
+Displays the first few lines of a file.
+
+Observed Output:
+The first 10 lines of file.txt are shown.
 
 ---
 
 ## tail
 
-Command:
-
-```bash
+Command Used:
 tail file.txt
-```
 
-Purpose:
-Shows last lines.
+What it Does:
+Displays the last few lines of a file.
+
+Observed Output:
+The last 10 lines of file.txt are shown.
 
 ---
 
 ## wc
 
-Command:
-
-```bash
+Command Used:
 wc file.txt
-```
 
-Purpose:
-Counts lines, words, characters.
+What it Does:
+Counts the number of lines, words, and characters in a file.
+
+Observed Output:
+Displays line count, word count, and character count.
 
 ---
 
 ## chmod
 
-Command:
-
-```bash
+Command Used:
 chmod +x script.sh
-```
 
-Purpose:
-Changes permissions.
+What it Does:
+Changes file permissions and makes a file executable.
+
+Observed Output:
+Execute permission is added to script.sh.
