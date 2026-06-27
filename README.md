@@ -41,7 +41,7 @@ Synergy_TP/
 | Task 3 | Manual CSV Parsing vs Pandas | ✅ |
 | Task 4 | Data Cleaning and Validation | ✅ |
 | Task 5 | Data Visualization using Matplotlib | ✅ |
-| Task 6 | Technical Report | 🚧 In Progress |
+| Task 6 | Technical Report | ✅ |
 
 ---
 
