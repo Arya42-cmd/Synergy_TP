@@ -7,7 +7,7 @@ This repository contains the tasks completed as part of the Synergy Technical Pr
 - task_1 – Git, Virtual Environment and Linux Basics
 - task_2 – Student Submission Analyzer
 - task_3 – Manual CSV Parsing vs Pandas
-- task_4 – Data Cleaning (In Progress)
+- task_4 – Data Cleaning 
 - task_5 – To be completed
 - task_6 – To be completed
 
