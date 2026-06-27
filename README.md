@@ -1,6 +1,6 @@
 # Synergy_TP
 
-Task submissions
+Task submissions.
 
 ## Repository Structure
 
