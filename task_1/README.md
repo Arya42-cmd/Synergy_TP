@@ -35,7 +35,3 @@ From the repository root:
 
 python task_1/src/hello.py
 
-## Update 1
-Testing pull request workflow.
-## Update 2
-Second pull request test.
