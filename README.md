@@ -1,6 +1,6 @@
 # Synergy_TP
 
-Software/ML Domain Technical Project submissions for the Synergy selection process.
+Software/ML Domain Task submissions for the Synergy.
 
 ## Repository Structure
 
