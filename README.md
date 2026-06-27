@@ -1,6 +1,6 @@
 # Synergy_TP
 
-Software/ML Domain Task submissions for the Synergy.
+Task submissions
 
 ## Repository Structure
 
